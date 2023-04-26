@@ -1,0 +1,445 @@
+{
+  "results": [
+    {
+      "id": "johnnie-walker",
+      "required": [
+        {
+          "keyword": "johnnie-walker",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "jack-daniels",
+      "required": [
+        {
+          "keyword": "jack-daniels",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "jameson",
+      "required": [
+        {
+          "keyword": "jameson",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "hennessy",
+      "required": [
+        {
+          "keyword": "hennessy",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "smirnoff",
+      "required": [
+        {
+          "keyword": "smirnoff",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "grey-goose",
+      "required": [
+        {
+          "keyword": "grey-goose",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "absolut",
+      "required": [
+        {
+          "keyword": "absolut",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "belvedere",
+      "required": [
+        {
+          "keyword": "belvedere",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "bacardi",
+      "required": [
+        {
+          "keyword": "bacardi",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "captain-morgan",
+      "required": [
+        {
+          "keyword": "captain-morgan",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "malibu",
+      "required": [
+        {
+          "keyword": "malibu",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "jose-cuervo",
+      "required": [
+        {
+          "keyword": "jose-cuervo",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "patron",
+      "required": [
+        {
+          "keyword": "patron",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "don-julio",
+      "required": [
+        {
+          "keyword": "don-julio",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "martini-rossi",
+      "required": [
+        {
+          "keyword": "martini-rossi",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "campari",
+      "required": [
+        {
+          "keyword": "campari",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "aperol",
+      "required": [
+        {
+          "keyword": "aperol",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "baileys",
+      "required": [
+        {
+          "keyword": "baileys",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "kahlua",
+      "required": [
+        {
+          "keyword": "kahlua",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "cointreau",
+      "required": [
+        {
+          "keyword": "cointreau",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "bombay",
+      "required": [
+        {
+          "keyword": "bombay",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "tanqueray",
+      "required": [
+        {
+          "keyword": "tanqueray",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "hendricks",
+      "required": [
+        {
+          "keyword": "hendricks",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "moet",
+      "required": [
+        {
+          "keyword": "moet",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "dom-perignon",
+      "required": [
+        {
+          "keyword": "dom-perignon",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "chivas-regal",
+      "required": [
+        {
+          "keyword": "chivas-regal",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "glenfiddich",
+      "required": [
+        {
+          "keyword": "glenfiddich",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "macallan",
+      "required": [
+        {
+          "keyword": "macallan",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "makers-mark",
+      "required": [
+        {
+          "keyword": "makers-mark",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "crown-royal",
+      "required": [
+        {
+          "keyword": "crown-royal",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "jim-beam",
+      "required": [
+        {
+          "keyword": "jim-beam",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "bulleit",
+      "required": [
+        {
+          "keyword": "bulleit",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "dewars",
+      "required": [
+        {
+          "keyword": "dewars",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "glenlivet",
+      "required": [
+        {
+          "keyword": "glenlivet",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "titos",
+      "required": [
+        {
+          "keyword": "titos",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "stolichnaya",
+      "required": [
+        {
+          "keyword": "stolichnaya",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "ketel-one",
+      "required": [
+        {
+          "keyword": "ketel-one",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "sailor-jerry",
+      "required": [
+        {
+          "keyword": "sailor-jerry",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "kraken",
+      "required": [
+        {
+          "keyword": "kraken",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "mount-gay",
+      "required": [
+        {
+          "keyword": "mount-gay",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "havana-club",
+      "required": [
+        {
+          "keyword": "havana-club",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "sauza",
+      "required": [
+        {
+          "keyword": "sauza",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "herradura",
+      "required": [
+        {
+          "keyword": "herradura",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "casamigos",
+      "required": [
+        {
+          "keyword": "casamigos",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "noilly-prat",
+      "required": [
+        {
+          "keyword": "noilly-prat",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "lillet",
+      "required": [
+        {
+          "keyword": "lillet",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "pimms",
+      "required": [
+        {
+          "keyword": "pimms",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "st-germain",
+      "required": [
+        {
+          "keyword": "st-germain",
+          "mode": "m"
+        }
+      ]
+    },
+    {
+      "id": "chambord",
+      "required": [
+        {
+          "keyword": "chambord",
+          "mode": "m"
+        }
+      ]
+    }
+  ]
+}
